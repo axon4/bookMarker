@@ -1,8 +1,8 @@
-# Bookmarker
+# BookMarker
 
-* Save bookmarks for any website address.
-* Bookmarks saved in local storage.
-* Anchor background for all the anchor tags.
+* save bookMarks for any webSite
+* bookMarks saved in local-storage
+* anchor-backGround for all the anchor-tags
 
 ## Stack
 
